@@ -1,6 +1,6 @@
 # SBT Assignment
 
-### Creted SBT Project with JDBC and joda date/time dependencies and scalastyle plugin.Also added Cached Resolution feature:
+### Created SBT Project with JDBC and joda date/time dependencies and scalastyle plugin.Also added Cached Resolution feature:
 
 ```
 
